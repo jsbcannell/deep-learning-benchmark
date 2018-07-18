@@ -13,6 +13,7 @@ frameworks = [
 
 models = [
     'vgg16',
+    'resnet50',
     'resnet152',
     'densenet161'
 ]
